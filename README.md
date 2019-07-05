@@ -17,3 +17,15 @@ resample training signal of FHR and UC so as to compact training data and then t
 LSTM model with two fully connected layers with the data followed by model evaluation on
 various parameters. The proposed LSTM architecture accurately diagnoses fetal distress
 cases with classification accuracy 88.21%, Precision 0.89136, F1 score 0.88118.
+
+
+![UC_resampled_legend](https://user-images.githubusercontent.com/49407332/60726249-b8ed2b00-9f58-11e9-8198-0e5a7016a55c.png)
+![confusion_matrix](https://user-images.githubusercontent.com/49407332/60726250-b985c180-9f58-11e9-9edd-06d63938f251.png)
+![datasample_plot](https://user-images.githubusercontent.com/49407332/60726251-b985c180-9f58-11e9-8322-0ecad4fe7165.png)
+![LSTM Layers updated](https://user-images.githubusercontent.com/49407332/60726253-b985c180-9f58-11e9-8c7e-c02203d10bc6.png)
+![LSTM_research_archi](https://user-images.githubusercontent.com/49407332/60726254-ba1e5800-9f58-11e9-864d-484c1859ea75.png)
+![LSTM_reserch](https://user-images.githubusercontent.com/49407332/60726255-ba1e5800-9f58-11e9-9510-4a4ba512c543.png)
+![originalVsResampled](https://user-images.githubusercontent.com/49407332/60726256-ba1e5800-9f58-11e9-9b7a-68f3c826755c.png)
+![resample_subplot](https://user-images.githubusercontent.com/49407332/60726257-bab6ee80-9f58-11e9-8f88-1db23afb9f3f.png)
+![rnn_type](https://user-images.githubusercontent.com/49407332/60726258-bab6ee80-9f58-11e9-8c09-9b0dbc80145f.jpg)
+![Traning](https://user-images.githubusercontent.com/49407332/60726259-bb4f8500-9f58-11e9-8b65-c06da8733182.png)
